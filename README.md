@@ -3,6 +3,7 @@
 <ul>
   <li>Создать файл .env, добавить туда токен бота(пример в файле .env_example)</li>
   <li>Создать таблицы в SQlite3</li>
+  <br>
   <p>Первая таблица: book_bot_db<p>
   <p>Стоблцы: id(Первичный ключ), user_id(INT), page(INT)<p>
   <p>Вторая таблица: bookmarks<p>
