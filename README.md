@@ -1,4 +1,5 @@
-<h1>books_reads_bot<h1>
+<h1>books_reads_bot</h1>
+
 <ul>
   <li>Создать файл .env, добавить туда токен бота(пример в файле .env_example)<li>
   <li>Создать таблицы в SQlite3<li>
